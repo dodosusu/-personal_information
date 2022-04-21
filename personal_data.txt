@@ -1,0 +1,18 @@
+Console.WriteLine("name:");
+string name=System.Console.ReadLine();
+
+Console.WriteLine("gender:");
+string gender=System.Console.ReadLine();
+
+Console.WriteLine("date of birth:");
+System.Console.ReadLine();
+string dob=System.Console.ReadLine();
+
+Console.WriteLine("student ID:");
+System.Console.ReadLine();
+string ID=System.Console.ReadLine();
+
+Console.WriteLine("姓名:"+name);
+Console.WriteLine("性別:"+gender);
+Console.WriteLine("生日:"+dob);
+Console.WriteLine("學號:"+ID);
